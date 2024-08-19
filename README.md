@@ -1,2 +1,2 @@
 # Memory-Card-Game
-This the Simple Memory Card Game using HTML,CSS & JS
+This  is the Simple Memory Card Game using HTML,CSS & JS
